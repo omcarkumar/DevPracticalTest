@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.10.1" />
+    <PackageReference Include="NUnit" Version="3.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Repo\Repo.csproj" />
+    <ProjectReference Include="..\SharedContract\Domain.csproj" />
+    <ProjectReference Include="..\WepApi\WepApi.csproj" />
+  </ItemGroup>
+
+</Project>

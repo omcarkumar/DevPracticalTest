@@ -1,0 +1,6 @@
+C:\Users\muthukumars\source\repos\WebApi.Test\bin\Debug\netstandard2.0\WebApi.Test.deps.json
+C:\Users\muthukumars\source\repos\WebApi.Test\bin\Debug\netstandard2.0\WebApi.Test.dll
+C:\Users\muthukumars\source\repos\WebApi.Test\obj\Debug\netstandard2.0\WebApi.Test.csprojAssemblyReference.cache
+C:\Users\muthukumars\source\repos\WebApi.Test\obj\Debug\netstandard2.0\WebApi.Test.csproj.CoreCompileInputs.cache
+C:\Users\muthukumars\source\repos\WebApi.Test\obj\Debug\netstandard2.0\WebApi.Test.AssemblyInfoInputs.cache
+C:\Users\muthukumars\source\repos\WebApi.Test\obj\Debug\netstandard2.0\WebApi.Test.AssemblyInfo.cs
