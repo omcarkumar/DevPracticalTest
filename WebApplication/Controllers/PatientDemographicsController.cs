@@ -11,7 +11,7 @@ namespace WebApplication.Controllers
     public class PatientDemographicsController : Controller
     {
         private IRestClient _restClient;
-        private string URL_PATH = "";
+        private string URL_PATH = "http://localhost:8090";
             
         public PatientDemographicsController(IRestClient restClient)
         {
